@@ -20,7 +20,7 @@ int main(int argc, char *argv[]){
     printf("2. View a Student's details.\n");
     printf("3. View Students Details.\n");
     printf("4. Delete a Student's Details.\n");
-    printf("5. Exit.\n");
+    printf("e. Exit.\n");
 
     printf("Choice : ");
     scanf(" %c", &choice);
@@ -37,7 +37,7 @@ int main(int argc, char *argv[]){
       case '4':
         //delete a students details.
         break;
-      case '5':
+      case 'e':
         exit(0);
       default:
         printf("Invalid Choice try Again.\n");
