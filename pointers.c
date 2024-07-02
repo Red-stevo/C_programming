@@ -9,11 +9,20 @@ typedef struct{
   char grade;
 }Student;
 
-
+char[] addStudent(Student student);
 int main(int argc, char *argv[]){
   char choice;
-
-
+  int studentsnumber;
+  Student *studentstorage; 
+  if(argc > 1)
+    studentsnumber = argv[1];
+  else{
+    printf("Number of students to be stored must be specified.\n ./pointer <students number>\n")
+    return 0;
+  }
+  //creating the student storage array dynamically
+  studentstorage = (Students *)malloc(studentsnumber * sizeof(Student);
+  
   while(true){
     printf("\tWhat would you like to do?\n");
     printf("1. Add student details.\n");
@@ -25,8 +34,7 @@ int main(int argc, char *argv[]){
     printf("Choice : ");
     scanf(" %c", &choice);
     switch(choice){
-      case '1':
-        //add students.
+      case '1': 
         break;
       case '2':
         //view one student's details.
@@ -43,7 +51,5 @@ int main(int argc, char *argv[]){
         printf("Invalid Choice try Again.\n");
     }
   }
-
-
   return 0;
 }
