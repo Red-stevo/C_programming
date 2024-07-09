@@ -1,0 +1,3 @@
+stano anacheki hiyo list, angalia code bana
+weeee naimekubali.HAHAHAHAHHAgcc fileoperation.c -o fileoperation.o
+weeee naimekubali.HAHAHAHAHHAgcc fileoperation.c -o fileoperation.o
