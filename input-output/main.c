@@ -51,17 +51,19 @@ void readfile(char filepath[]){
         exit(1);
     }
 
+    while (getline(&data, &len, stream) != -1)
+        puts(data);
 
 
 }
-
 
 int main(void){
     //path for the new file.
    const char filepath[] = "../text-files/sample.txt";
 
-    writefile(filepath);
+    //writefile(filepath);
 
+    readfile(filepath);
 
     return 0;
 }
