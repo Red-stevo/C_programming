@@ -1,0 +1,3 @@
+/home/redsteve/repos/C_programming/input-output/cmake-build-debug/CMakeFiles/input_output.dir
+/home/redsteve/repos/C_programming/input-output/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/redsteve/repos/C_programming/input-output/cmake-build-debug/CMakeFiles/rebuild_cache.dir

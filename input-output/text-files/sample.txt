@@ -1,0 +1,8 @@
+Why Use size_tPortability: Using size_t ensures that 
+your code is portable across different platforms and architectures,
+as it will automatically adjust to the appropriate size for the system.
+Correctness: Since size_t is unsigned, it is less likely to cause errors related
+to negative values when dealing with sizes and counts, which should always be 
+non-negative.In summary, size_t is an unsigned integer type specifically designed 
+for representing sizes and counts in a portable and platform-independent way, making 
+it a crucial part of writing robust and portable C code.
