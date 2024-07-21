@@ -55,17 +55,33 @@ void readfile(char filepath[]){
     while (getline(&data, &len, stream) != -1)
         puts(data);
 
+}
 
+void customebuffer(char filepath[]){
+    stream = fopen(filepath, "r");
+    char buffer[200];
+    int mode = _IOLBF;
+    size_t size = sizeof(buffer);
 
+    if(setvbuf(stream, buffer, mode, size) == 0)
+        puts(buffer);
+    else
+        perror("error reading file.");
+
+    fread(buffer, sizeof(char), sizeof(buffer), stream);
+
+    puts(buffer);
 }
 
 int main(void){
     //path for the new file.
    const char filepath[] = "../text-files/sample.txt";
 
-    //writefile(filepath);
+    writefile(filepath);
 
     readfile(filepath);
+
+    customebuffer(filepath);
 
     return 0;
 }
