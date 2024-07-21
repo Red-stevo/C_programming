@@ -5,7 +5,7 @@
 //global stream object.
 FILE *stream;
 
-void writeFile(char filePath[]){
+void writefile(char filepath[]){
 
     const char data[] = "Why Use size_tPortability: Using size_t ensures that \n"
                   "your code is portable across different platforms and architectures,\n"
@@ -17,7 +17,7 @@ void writeFile(char filePath[]){
                   "it a crucial part of writing robust and portable C code.\n";
 
     //open a stream to write in a file.
-    stream = fopen(filePath,"w");
+    stream = fopen(filepath,"w");
 
     //check for errors during the stream creation.
     if (stream == NULL){
@@ -36,10 +36,17 @@ void writeFile(char filePath[]){
     }
 }
 
+void readfile(char filepath[]){
+
+}
+
 
 int main(void){
-   const char filePath[] = "../text-files/sample.txt";
-    writeFile(filePath);
+    //path for the new file.
+   const char filepath[] = "../text-files/sample.txt";
+
+    writefile(filepath);
+
 
     return 0;
 }
