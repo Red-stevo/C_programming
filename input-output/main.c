@@ -38,6 +38,21 @@ void writefile(char filepath[]){
 
 void readfile(char filepath[]){
 
+    char *data = NULL;
+    size_t len = 0;
+
+
+    //stream to open the file reading.
+    stream = fopen(filepath, "r");
+
+    //check and print error.
+    if (stream == NULL){
+        perror("Unable to create a stream.\n");
+        exit(1);
+    }
+
+
+
 }
 
 
