@@ -51,8 +51,10 @@ void readfile(char filepath[]){
         exit(1);
     }
 
+
     while (getline(&data, &len, stream) != -1)
         puts(data);
+
 
 
 }
