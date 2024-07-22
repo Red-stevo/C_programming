@@ -79,9 +79,9 @@ int main(void){
 
     writefile(filepath);
 
-    readfile(filepath);
+    //readfile(filepath);
 
-    customebuffer(filepath);
+    //customebuffer(filepath);
 
     return 0;
 }
