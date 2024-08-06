@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <sys/stat.h>
+#include <dirent.h>
 
 void readfile(char* filepath){
     char data[41];
@@ -43,6 +44,23 @@ void fileinfor(char fileName[]){
     printf("%ld\n",fileDescriptor.st_mtime);
 }
 
+void directoryreading(){
+    DIR *dirstream = NULL;
+    struct dirent *content = NULL;
+
+    dirstream = opendir("/");
+
+    if (dirstream == NULL){
+        perror("Error Opening the Directory");
+        return;
+    }
+
+    while((content = readdir(dirstream)) != NULL)
+        printf("%s\n", content ->d_name);
+
+    closedir(dirstream);
+}
+
 
 
 
@@ -60,6 +78,7 @@ int main(int argc, char* argv[]){
     strcpy(name, argv[1]);
 
     //readfile(name);
-    fileinfor(name);
+    //fileinfor(name);
+    directoryreading();
     return 0;
 }
