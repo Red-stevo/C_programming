@@ -1,0 +1,1065 @@
+ 6217  cd ..
+ 6218  mv * ./springbootwebSockets/ ./javaWebSockets/
+ 6219  mv  ./springbootwebSockets/* ./javaWebSockets/
+ 6220  cd javaWebSockets/
+ 6221  download 
+ 6222  s
+ 6223  vlc *
+ 6224  updatee
+ 6225  update
+ 6226  maria
+ 6227  docker ps -a
+ 6228  docker ps -a | grep veil
+ 6229  docker ps -a
+ 6230  clear
+ 6231  cd ..
+ 6232  cd StudentLearningAssistant/
+ 6233  ls -R | grep docker
+ 6234  ifconfig
+ 6235  clear
+ 6236  e
+ 6237  e
+ 6238  download 
+ 6239  cd ~/Music/
+ 6240  jar Student-learminingAssistant-0.0.1-SNAPSHOT.jar 
+ 6241  java -jar Student-learminingAssistant-0.0.1-SNAPSHOT.jar 
+ 6242  java -jar /home/redsteve/repos/Student-LearningAssitant/StudentLearningAssistant/target/Student-learminingAssistant-0.0.1-SNAPSHOT.jar 
+ 6243  download 
+ 6244  download 
+ 6245  cd ~/Music/
+ 6246  download 
+ 6247  sudo apt update
+ 6248  sudo su
+ 6249  bettercap -caplet ble
+ 6250  sudo bettercap -caplet ble
+ 6251  sudo bettercap -eval "ble.recon on"
+ 6252  ifconfig
+ 6253  sudo bettercap
+ 6254  e
+ 6255  bluetoothctl 
+ 6256  e
+ 6257  sudo su
+ 6258  bettercap 
+ 6259  bettercap -iface wlp2s0
+ 6260  sudo bettercap -iface wlp2s0
+ 6261  r
+ 6262  update
+ 6263  clear
+ 6264  sudo apt-get install bettercap
+ 6265  sudo bettercap -eval "ble.recon on"
+ 6266  ct
+ 6267  git push
+ 6268  ct
+ 6269  git push
+ 6270  sudo find docker /
+ 6271  sudo find docker / | grep docker
+ 6272  cd /usr/share/
+ 6273  ls | docker
+ 6274  ls |grep  docker
+ 6275  ls | grep docker
+ 6276  find docker .
+ 6277  find docker . | grep docker
+ 6278  docker ps 
+ 6279  docker ps -a
+ 6280  docker ps a
+ 6281  docker ps -a
+ 6282  veil
+ 6283  exit
+ 6284  s
+ 6285  ifconfig
+ 6286  git pull
+ 6287  ct
+ 6288  git add  ../GcdWithRecursion/src/Main.java 
+ 6289  git commit -m "all done"
+ 6290  git pull
+ 6291  clear
+ 6292  ct
+ 6293  git push
+ 6294  java -version
+ 6295  all done
+ 6296  ct
+ 6297  git push
+ 6298  clear
+ 6299  download 
+ 6300  ct 
+ 6301  clear
+ 6302  mvn clean install
+ 6303  cy
+ 6304  ct
+ 6305  clear
+ 6306  download 
+ 6307  ct
+ 6308  git push
+ 6309  s
+ 6310  cd repos/
+ 6311  git clone git@github.com:Red-stevo/JavaSockets.git
+ 6312  free -h
+ 6313  r
+ 6314  ct
+ 6315  git push
+ 6316  sudo msfconsole
+ 6317  s
+ 6318  exit
+ 6319  ifconfig
+ 6320  cd ..
+ 6321  mkdir webHacking
+ 6322  cd webHacking/
+ 6323  download 
+ 6324  download 
+ 6325  vlc *
+ 6326  cd ~/Music/
+ 6327  dow
+ 6328  ct
+ 6329  download 
+ 6330  download 
+ 6331  cd Vi
+ 6332  cd Videos/
+ 6333  cd webHacking/
+ 6334  mkdir web
+ 6335  cd web/
+ 6336  update
+ 6337  e
+ 6338  ct
+ 6339  git push
+ 6340  download 
+ 6341  ct
+ 6342  git push
+ 6343  clear
+ 6344  cd ..
+ 6345  cd ..
+ 6346  mkdir Hacking
+ 6347  mv webHacking/ python-for-hacker/ Hacking/
+ 6348  mv Hacking/ ~/EthicalHacking/
+ 6349  cd ~/EthicalHacking/
+ 6350  cd ~/Videos/
+ 6351  cd javaWebSockets/
+ 6352  mkdir Spring
+ 6353  mv springbootwebSockets/ 
+ 6354  mv springbootwebSockets/ spring
+ 6355  mkdir React
+ 6356  mv axios/ javascript/ JS/ react-concepts/ 
+ 6357  C
+ 6358  LS
+ 6359  mv axios/ javascript/ JS/ react-concepts/ React
+ 6360  ls React/
+ 6361  ls React/react-concepts/
+ 6362  mv backdoors_py/ BEEF/ burpSuite/ hacking-js/ router_exploits/ ~/EthicalHacking/
+ 6363  mv CSS/ React/
+ 6364  cd algo/
+ 6365  mv dynamic/ timeSpaceComplexity/ trees/ ./..
+ 6366  cd ..
+ 6367  mkdir Algo
+ 6368  mv algo basic_math_algos/ dynamic/ leetcode/ trees/ timeSpaceComplexity/ Algo 
+ 6369  ls MITM/
+ 6370  mv MITM/ ~/EthicalHacking/
+ 6371  ls spring
+ 6372  mv spring Spring
+ 6373  sudo rm 'NA.*
+ 6374  sudo rm 'NA.*'
+ 6375  sudo rm NA.*
+ 6376  mv Algo/ React/ Spring/ system-programming/ ./..
+ 6377  cd ..
+ 6378  sudo rm -r  javaWebSockets/
+ 6379  mv docker/ Spring/
+ 6380  mv ~/EthicalHacking/ ./
+ 6381  cd Videos/
+ 6382  mkdir pyqt5
+ 6383  cd pyqt5/
+ 6384  download 
+ 6385  clear
+ 6386  pip install PyQt5
+ 6387  cd llc
+ 6388  cd ..c
+ 6389  cd ..
+ 6390  cd Videos/
+ 6391  cd pyqt5/
+ 6392  pip install pyqt5-tools
+ 6393  vlc 2.PyQt5\ Tutorial\ -\ Buttons\ and\ Events\ \(Signals\).webm 
+ 6394  pyqt5-tools designer
+ 6395  e
+ 6396  e
+ 6397  e
+ 6398  e
+ 6399  find / -name designer -type f 2>/dev/null
+ 6400  nano ~/.bashrc
+ 6401  source ~/.bashrc
+ 6402  sudo apt-get install qttools5-dev-tools
+ 6403  pyuic5 
+ 6404  cd ~/repos/
+ 6405  git clone git@github.com:Red-stevo/RestoMenu.git
+ 6406  ct
+ 6407  git push
+ 6408  ct
+ 6409  git push
+ 6410  git pull
+ 6411  ct
+ 6412  git push
+ 6413  cd ~
+ 6414  cd Videos/
+ 6415  download 
+ 6416  ct
+ 6417  git push
+ 6418  git pull
+ 6419  ct
+ 6420  git push
+ 6421  git pull
+ 6422  qtdesigner
+ 6423  s
+ 6424  update
+ 6425  e
+ 6426  e
+ 6427  e
+ 6428  e
+ 6429  s
+ 6430  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf 
+ 6431  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf --output difference.pdf
+ 6432  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf >  difference
+ 6433  cat difference 
+ 6434  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf -o  difference
+ 6435  sudo apt install diffpdf 
+ 6436  ct
+ 6437  git push
+ 6438  ct
+ 6439  cd Videos/Algo/
+ 6440  s
+ 6441  cd ~/Videos/
+ 6442  cd Algo/
+ 6443  mkdir travelling_sale_man
+ 6444  cd travelling_sale_man/
+ 6445  sudo apt install diffpdf 
+ 6446  mv * ./..
+ 6447  update
+ 6448  cd ~/Music/
+ 6449  bluetoothctl 
+ 6450  sudo systemctl restart bluetooth
+ 6451  sudo apt install --reinstall bluetooth bluez
+ 6452  sudo apt-get install pulseaudio pulseaudio-module-bluetooth pavucontrol bluez
+ 6453  pactl load-module module-bluetooth-discover
+ 6454  sudo systemctl restart bluetooth
+ 6455  pulseaudio -k
+ 6456  pulseaudio --start
+ 6457  sudo systemctl status bluetooth
+ 6458  pavucontrol
+ 6459  pulseaudio --start
+ 6460  pulseaudio --check
+ 6461  r
+ 6462  bluetoothctl 
+ 6463  sudo systemctl restart bluetooth
+ 6464  sudo apt update 
+ 6465  sudo apt upgrade 
+ 6466  apt list --upgradable 
+ 6467  e
+ 6468  vlc *
+ 6469  bluetoothctl 
+ 6470  cd Public/
+ 6471  cd ~/Videos/Algo/
+ 6472  cd travelling_sale_man/
+ 6473  e
+ 6474  cd ~/Music/
+ 6475  mkdir songs
+ 6476  cd songs/
+ 6477  download 
+ 6478  cd ~/repos/
+ 6479  git clone 
+ 6480  git clone git@github.com:Red-stevo/Theory_Of_Computation.git
+ 6481  cd Theory_Of_Computation/
+ 6482  cd  ~/Documents/3.1/TOC/
+ 6483  mv PDA/ ~/repos/Theory_Of_Computation/
+ 6484  cd ~/repos/Theory_Of_Computation/
+ 6485  cd PDA/
+ 6486  a
+ 6487  git add pda01.jff 
+ 6488  git commit -m "designing the PDA"
+ 6489  git add . pda02.jff 
+ 6490  git commit -m "designing the PDA for palidrome"
+ 6491  git add . 
+ 6492  git status
+ 6493  cd ..
+ 6494  git status
+ 6495  git commit -m "designing the PDA for palidrome"
+ 6496  git push
+ 6497  java -jar JFLAP7.1.jar 
+ 6498  clear
+ 6499  e
+ 6500  e
+ 6501  e
+ 6502  e
+ 6503  ct
+ 6504  git push
+ 6505  bluetoothctl 
+ 6506  shutdown now
+ 6507  e
+ 6508  e
+ 6509  e
+ 6510  e
+ 6511  bluetoothctl 
+ 6512  cd Videos/
+ 6513  mkdir Kinus
+ 6514  cd Kinus/
+ 6515  ct
+ 6516  bluetoothctl
+ 6517  download 
+ 6518  ct
+ 6519  git push
+ 6520  bluetoothctl
+ 6521  e
+ 6522  s
+ 6523  cd ~/repos/
+ 6524  cd RestoMenu/
+ 6525  git pull https://github.com/Bobcodiz/RestoMenu/pull/10.patch
+ 6526  git status
+ 6527  git add .
+ 6528  ct
+ 6529  git remote add upstream https://github.com/Bobcodiz/RestoMenu/pull/10.patch
+ 6530  git remote -v
+ 6531  git fetch upstream 
+ 6532  git remote remove upstream upstream 
+ 6533  git remote remove upstream
+ 6534  git remote -v
+ 6535  git remote add upstream https://github.com/Bobcodiz/RestoMenu.git
+ 6536  git remove -v
+ 6537  git remote -v
+ 6538  git fetch upstream 
+ 6539  git merge upstream/main 
+ 6540  cd __pycache__/
+ 6541  git merge upstream/main 
+ 6542  code UpdateDish.cpython-311.pyc UpdateDish.cpython-312.pyc 
+ 6543  ct
+ 6544  git merge upstream/main 
+ 6545  git push
+ 6546  cd ~/Videos/Kinus/
+ 6547  mkdir spiderman
+ 6548  cd spiderman/
+ 6549  download 
+ 6550  download 
+ 6551  download 
+ 6552  e
+ 6553  e
+ 6554  e
+ 6555  e
+ 6556  e
+ 6557  e
+ 6558  cd ~/Videos/Kinus/
+ 6559  mkdir fresh
+ 6560  mv fresh/ french
+ 6561  cd french/
+ 6562  download 
+ 6563  e
+ 6564  bluetoothctl 
+ 6565  e
+ 6566  l
+ 6567  mkdir file.txt
+ 6568  hipstopgm 
+ 6569  history >> file.txt/
+ 6570  echo history >> file.txt/
+ 6571  echo history >clear file.txt/
+ 6572  sudo rm file.txt/
+ 6573  ls
+ 6574  sudo rm -r file.txt/
+ 6575  c
+ 6576  touch file.txt 
+ 6577  history >> file.txt 
+ 6217  cd ..
+ 6218  mv * ./springbootwebSockets/ ./javaWebSockets/
+ 6219  mv  ./springbootwebSockets/* ./javaWebSockets/
+ 6220  cd javaWebSockets/
+ 6221  download 
+ 6222  s
+ 6223  vlc *
+ 6224  updatee
+ 6225  update
+ 6226  maria
+ 6227  docker ps -a
+ 6228  docker ps -a | grep veil
+ 6229  docker ps -a
+ 6230  cd ..
+ 6231  cd StudentLearningAssistant/
+ 6232  ls -R | grep docker
+ 6233  ifconfig
+ 6234  e
+ 6235  e
+ 6236  download 
+ 6237  cd ~/Music/
+ 6238  jar Student-learminingAssistant-0.0.1-SNAPSHOT.jar 
+ 6239  java -jar Student-learminingAssistant-0.0.1-SNAPSHOT.jar 
+ 6240  java -jar /home/redsteve/repos/Student-LearningAssitant/StudentLearningAssistant/target/Student-learminingAssistant-0.0.1-SNAPSHOT.jar 
+ 6241  download 
+ 6242  download 
+ 6243  cd ~/Music/
+ 6244  download 
+ 6245  sudo apt update
+ 6246  sudo su
+ 6247  bettercap -caplet ble
+ 6248  sudo bettercap -caplet ble
+ 6249  sudo bettercap -eval "ble.recon on"
+ 6250  ifconfig
+ 6251  sudo bettercap
+ 6252  e
+ 6253  bluetoothctl 
+ 6254  e
+ 6255  sudo su
+ 6256  bettercap 
+ 6257  bettercap -iface wlp2s0
+ 6258  sudo bettercap -iface wlp2s0
+ 6259  r
+ 6260  update
+ 6261  sudo apt-get install bettercap
+ 6262  sudo bettercap -eval "ble.recon on"
+ 6263  ct
+ 6264  git push
+ 6265  ct
+ 6266  git push
+ 6267  sudo find docker /
+ 6268  sudo find docker / | grep docker
+ 6269  cd /usr/share/
+ 6270  ls | docker
+ 6271  ls |grep  docker
+ 6272  ls | grep docker
+ 6273  find docker .
+ 6274  find docker . | grep docker
+ 6275  docker ps 
+ 6276  docker ps -a
+ 6277  docker ps a
+ 6278  docker ps -a
+ 6279  veil
+ 6280  exit
+ 6281  s
+ 6282  ifconfig
+ 6283  git pull
+ 6284  ct
+ 6285  git add  ../GcdWithRecursion/src/Main.java 
+ 6286  git commit -m "all done"
+ 6287  git pull
+ 6288  ct
+ 6289  git push
+ 6290  java -version
+ 6291  all done
+ 6292  ct
+ 6293  git push
+ 6294  download 
+ 6295  ct 
+ 6296  mvn clean install
+ 6297  cy
+ 6298  ct
+ 6299  download 
+ 6300  ct
+ 6301  git push
+ 6302  s
+ 6303  cd repos/
+ 6304  git clone git@github.com:Red-stevo/JavaSockets.git
+ 6305  free -h
+ 6306  r
+ 6307  ct
+ 6308  git push
+ 6309  sudo msfconsole
+ 6310  s
+ 6311  exit
+ 6312  ifconfig
+ 6313  cd ..
+ 6314  mkdir webHacking
+ 6315  cd webHacking/
+ 6316  download 
+ 6317  download 
+ 6318  vlc *
+ 6319  cd ~/Music/
+ 6320  dow
+ 6321  ct
+ 6322  download 
+ 6323  download 
+ 6324  cd Vi
+ 6325  cd Videos/
+ 6326  cd webHacking/
+ 6327  mkdir web
+ 6328  cd web/
+ 6329  update
+ 6330  e
+ 6331  ct
+ 6332  git push
+ 6333  download 
+ 6334  ct
+ 6335  git push
+ 6336  cd ..
+ 6337  cd ..
+ 6338  mkdir Hacking
+ 6339  mv webHacking/ python-for-hacker/ Hacking/
+ 6340  mv Hacking/ ~/EthicalHacking/
+ 6341  cd ~/EthicalHacking/
+ 6342  cd ~/Videos/
+ 6343  cd javaWebSockets/
+ 6344  mkdir Spring
+ 6345  mv springbootwebSockets/ 
+ 6346  mv springbootwebSockets/ spring
+ 6347  mkdir React
+ 6348  mv axios/ javascript/ JS/ react-concepts/ 
+ 6349  C
+ 6350  LS
+ 6351  mv axios/ javascript/ JS/ react-concepts/ React
+ 6352  ls React/
+ 6353  ls React/react-concepts/
+ 6354  mv backdoors_py/ BEEF/ burpSuite/ hacking-js/ router_exploits/ ~/EthicalHacking/
+ 6355  mv CSS/ React/
+ 6356  cd algo/
+ 6357  mv dynamic/ timeSpaceComplexity/ trees/ ./..
+ 6358  cd ..
+ 6359  mkdir Algo
+ 6360  mv algo basic_math_algos/ dynamic/ leetcode/ trees/ timeSpaceComplexity/ Algo 
+ 6361  ls MITM/
+ 6362  mv MITM/ ~/EthicalHacking/
+ 6363  ls spring
+ 6364  mv spring Spring
+ 6365  sudo rm 'NA.*
+ 6366  sudo rm 'NA.*'
+ 6367  sudo rm NA.*
+ 6368  mv Algo/ React/ Spring/ system-programming/ ./..
+ 6369  cd ..
+ 6370  sudo rm -r  javaWebSockets/
+ 6371  mv docker/ Spring/
+ 6372  mv ~/EthicalHacking/ ./
+ 6373  cd Videos/
+ 6374  mkdir pyqt5
+ 6375  cd pyqt5/
+ 6376  download 
+ 6377  pip install PyQt5
+ 6378  cd llc
+ 6379  cd ..c
+ 6380  cd ..
+ 6381  cd Videos/
+ 6382  cd pyqt5/
+ 6383  pip install pyqt5-tools
+ 6384  vlc 2.PyQt5\ Tutorial\ -\ Buttons\ and\ Events\ \(Signals\).webm 
+ 6385  pyqt5-tools designer
+ 6386  e
+ 6387  e
+ 6388  e
+ 6389  e
+ 6390  find / -name designer -type f 2>/dev/null
+ 6391  nano ~/.bashrc
+ 6392  source ~/.bashrc
+ 6393  sudo apt-get install qttools5-dev-tools
+ 6394  pyuic5 
+ 6395  cd ~/repos/
+ 6396  git clone git@github.com:Red-stevo/RestoMenu.git
+ 6397  ct
+ 6398  git push
+ 6399  ct
+ 6400  git push
+ 6401  git pull
+ 6402  ct
+ 6403  git push
+ 6404  cd ~
+ 6405  cd Videos/
+ 6406  download 
+ 6407  ct
+ 6408  git push
+ 6409  git pull
+ 6410  ct
+ 6411  git push
+ 6412  git pull
+ 6413  qtdesigner
+ 6414  s
+ 6415  update
+ 6416  e
+ 6417  e
+ 6418  e
+ 6419  e
+ 6420  s
+ 6421  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf 
+ 6422  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf --output difference.pdf
+ 6423  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf >  difference
+ 6424  cat difference 
+ 6425  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf -o  difference
+ 6426  sudo apt install diffpdf 
+ 6427  ct
+ 6428  git push
+ 6429  ct
+ 6430  cd Videos/Algo/
+ 6431  s
+ 6432  cd ~/Videos/
+ 6433  cd Algo/
+ 6434  mkdir travelling_sale_man
+ 6435  cd travelling_sale_man/
+ 6436  sudo apt install diffpdf 
+ 6437  mv * ./..
+ 6438  update
+ 6439  cd ~/Music/
+ 6440  bluetoothctl 
+ 6441  sudo systemctl restart bluetooth
+ 6442  sudo apt install --reinstall bluetooth bluez
+ 6443  sudo apt-get install pulseaudio pulseaudio-module-bluetooth pavucontrol bluez
+ 6444  pactl load-module module-bluetooth-discover
+ 6445  sudo systemctl restart bluetooth
+ 6446  pulseaudio -k
+ 6447  pulseaudio --start
+ 6448  sudo systemctl status bluetooth
+ 6449  pavucontrol
+ 6450  pulseaudio --start
+ 6451  pulseaudio --check
+ 6452  r
+ 6453  bluetoothctl 
+ 6454  sudo systemctl restart bluetooth
+ 6455  sudo apt update 
+ 6456  sudo apt upgrade 
+ 6457  apt list --upgradable 
+ 6458  e
+ 6459  vlc *
+ 6460  bluetoothctl 
+ 6461  cd Public/
+ 6462  cd ~/Videos/Algo/
+ 6463  cd travelling_sale_man/
+ 6464  e
+ 6465  cd ~/Music/
+ 6466  mkdir songs
+ 6467  cd songs/
+ 6468  download 
+ 6469  cd ~/repos/
+ 6470  git clone 
+ 6471  git clone git@github.com:Red-stevo/Theory_Of_Computation.git
+ 6472  cd Theory_Of_Computation/
+ 6473  cd  ~/Documents/3.1/TOC/
+ 6474  mv PDA/ ~/repos/Theory_Of_Computation/
+ 6475  cd ~/repos/Theory_Of_Computation/
+ 6476  cd PDA/
+ 6477  a
+ 6478  git add pda01.jff 
+ 6479  git commit -m "designing the PDA"
+ 6480  git add . pda02.jff 
+ 6481  git commit -m "designing the PDA for palidrome"
+ 6482  git add . 
+ 6483  git status
+ 6484  cd ..
+ 6485  git status
+ 6486  git commit -m "designing the PDA for palidrome"
+ 6487  git push
+ 6488  java -jar JFLAP7.1.jar 
+ 6489  e
+ 6490  e
+ 6491  e
+ 6492  e
+ 6493  ct
+ 6494  git push
+ 6495  bluetoothctl 
+ 6496  shutdown now
+ 6497  e
+ 6498  e
+ 6499  e
+ 6500  e
+ 6501  bluetoothctl 
+ 6502  cd Videos/
+ 6503  mkdir Kinus
+ 6504  cd Kinus/
+ 6505  ct
+ 6506  bluetoothctl
+ 6507  download 
+ 6508  ct
+ 6509  git push
+ 6510  bluetoothctl
+ 6511  e
+ 6512  s
+ 6513  cd ~/repos/
+ 6514  cd RestoMenu/
+ 6515  git pull https://github.com/Bobcodiz/RestoMenu/pull/10.patch
+ 6516  git status
+ 6517  git add .
+ 6518  ct
+ 6519  git remote add upstream https://github.com/Bobcodiz/RestoMenu/pull/10.patch
+ 6520  git remote -v
+ 6521  git fetch upstream 
+ 6522  git remote remove upstream upstream 
+ 6523  git remote remove upstream
+ 6524  git remote -v
+ 6525  git remote add upstream https://github.com/Bobcodiz/RestoMenu.git
+ 6526  git remove -v
+ 6527  git remote -v
+ 6528  git fetch upstream 
+ 6529  git merge upstream/main 
+ 6530  cd __pycache__/
+ 6531  git merge upstream/main 
+ 6532  code UpdateDish.cpython-311.pyc UpdateDish.cpython-312.pyc 
+ 6533  ct
+ 6534  git merge upstream/main 
+ 6535  git push
+ 6536  cd ~/Videos/Kinus/
+ 6537  mkdir spiderman
+ 6538  cd spiderman/
+ 6539  download 
+ 6540  download 
+ 6541  download 
+ 6542  e
+ 6543  e
+ 6544  e
+ 6545  e
+ 6546  e
+ 6547  e
+ 6548  cd ~/Videos/Kinus/
+ 6549  mkdir fresh
+ 6550  mv fresh/ french
+ 6551  cd french/
+ 6552  download 
+ 6553  e
+ 6554  bluetoothctl 
+ 6555  e
+ 6556  l
+ 6557  mkdir file.txt
+ 6558  hipstopgm 
+ 6559  history >> file.txt/
+ 6560  echo history >> file.txt/
+ 6561  echo history >clear file.txt/
+ 6562  sudo rm file.txt/
+ 6563  ls
+ 6564  sudo rm -r file.txt/
+ 6565  c
+ 6566  touch file.txt 
+ 6567  clear
+ 6568  history >> file.txt 
+ 6217  cd ..
+ 6218  mv * ./springbootwebSockets/ ./javaWebSockets/
+ 6219  mv  ./springbootwebSockets/* ./javaWebSockets/
+ 6220  cd javaWebSockets/
+ 6221  download 
+ 6222  s
+ 6223  vlc *
+ 6224  updatee
+ 6225  update
+ 6226  maria
+ 6227  docker ps -a
+ 6228  docker ps -a | grep veil
+ 6229  docker ps -a
+ 6230  cd ..
+ 6231  cd StudentLearningAssistant/
+ 6232  ls -R | grep docker
+ 6233  ifconfig
+ 6234  e
+ 6235  e
+ 6236  download 
+ 6237  cd ~/Music/
+ 6238  jar Student-learminingAssistant-0.0.1-SNAPSHOT.jar 
+ 6239  java -jar Student-learminingAssistant-0.0.1-SNAPSHOT.jar 
+ 6240  java -jar /home/redsteve/repos/Student-LearningAssitant/StudentLearningAssistant/target/Student-learminingAssistant-0.0.1-SNAPSHOT.jar 
+ 6241  download 
+ 6242  download 
+ 6243  cd ~/Music/
+ 6244  download 
+ 6245  sudo apt update
+ 6246  sudo su
+ 6247  bettercap -caplet ble
+ 6248  sudo bettercap -caplet ble
+ 6249  sudo bettercap -eval "ble.recon on"
+ 6250  ifconfig
+ 6251  sudo bettercap
+ 6252  e
+ 6253  bluetoothctl 
+ 6254  e
+ 6255  sudo su
+ 6256  bettercap 
+ 6257  bettercap -iface wlp2s0
+ 6258  sudo bettercap -iface wlp2s0
+ 6259  r
+ 6260  update
+ 6261  sudo apt-get install bettercap
+ 6262  sudo bettercap -eval "ble.recon on"
+ 6263  ct
+ 6264  git push
+ 6265  ct
+ 6266  git push
+ 6267  sudo find docker /
+ 6268  sudo find docker / | grep docker
+ 6269  cd /usr/share/
+ 6270  ls | docker
+ 6271  ls |grep  docker
+ 6272  ls | grep docker
+ 6273  find docker .
+ 6274  find docker . | grep docker
+ 6275  docker ps 
+ 6276  docker ps -a
+ 6277  docker ps a
+ 6278  docker ps -a
+ 6279  veil
+ 6280  exit
+ 6281  s
+ 6282  ifconfig
+ 6283  git pull
+ 6284  ct
+ 6285  git add  ../GcdWithRecursion/src/Main.java 
+ 6286  git commit -m "all done"
+ 6287  git pull
+ 6288  ct
+ 6289  git push
+ 6290  java -version
+ 6291  all done
+ 6292  ct
+ 6293  git push
+ 6294  download 
+ 6295  ct 
+ 6296  mvn clean install
+ 6297  cy
+ 6298  ct
+ 6299  download 
+ 6300  ct
+ 6301  git push
+ 6302  s
+ 6303  cd repos/
+ 6304  git clone git@github.com:Red-stevo/JavaSockets.git
+ 6305  free -h
+ 6306  r
+ 6307  ct
+ 6308  git push
+ 6309  sudo msfconsole
+ 6310  s
+ 6311  exit
+ 6312  ifconfig
+ 6313  cd ..
+ 6314  mkdir webHacking
+ 6315  cd webHacking/
+ 6316  download 
+ 6317  download 
+ 6318  vlc *
+ 6319  cd ~/Music/
+ 6320  dow
+ 6321  ct
+ 6322  download 
+ 6323  download 
+ 6324  cd Vi
+ 6325  cd Videos/
+ 6326  cd webHacking/
+ 6327  mkdir web
+ 6328  cd web/
+ 6329  update
+ 6330  e
+ 6331  ct
+ 6332  git push
+ 6333  download 
+ 6334  ct
+ 6335  git push
+ 6336  cd ..
+ 6337  cd ..
+ 6338  mkdir Hacking
+ 6339  mv webHacking/ python-for-hacker/ Hacking/
+ 6340  mv Hacking/ ~/EthicalHacking/
+ 6341  cd ~/EthicalHacking/
+ 6342  cd ~/Videos/
+ 6343  cd javaWebSockets/
+ 6344  mkdir Spring
+ 6345  mv springbootwebSockets/ 
+ 6346  mv springbootwebSockets/ spring
+ 6347  mkdir React
+ 6348  mv axios/ javascript/ JS/ react-concepts/ 
+ 6349  C
+ 6350  LS
+ 6351  mv axios/ javascript/ JS/ react-concepts/ React
+ 6352  ls React/
+ 6353  ls React/react-concepts/
+ 6354  mv backdoors_py/ BEEF/ burpSuite/ hacking-js/ router_exploits/ ~/EthicalHacking/
+ 6355  mv CSS/ React/
+ 6356  cd algo/
+ 6357  mv dynamic/ timeSpaceComplexity/ trees/ ./..
+ 6358  cd ..
+ 6359  mkdir Algo
+ 6360  mv algo basic_math_algos/ dynamic/ leetcode/ trees/ timeSpaceComplexity/ Algo 
+ 6361  ls MITM/
+ 6362  mv MITM/ ~/EthicalHacking/
+ 6363  ls spring
+ 6364  mv spring Spring
+ 6365  sudo rm 'NA.*
+ 6366  sudo rm 'NA.*'
+ 6367  sudo rm NA.*
+ 6368  mv Algo/ React/ Spring/ system-programming/ ./..
+ 6369  cd ..
+ 6370  sudo rm -r  javaWebSockets/
+ 6371  mv docker/ Spring/
+ 6372  mv ~/EthicalHacking/ ./
+ 6373  cd Videos/
+ 6374  mkdir pyqt5
+ 6375  cd pyqt5/
+ 6376  download 
+ 6377  pip install PyQt5
+ 6378  cd llc
+ 6379  cd ..c
+ 6380  cd ..
+ 6381  cd Videos/
+ 6382  cd pyqt5/
+ 6383  pip install pyqt5-tools
+ 6384  vlc 2.PyQt5\ Tutorial\ -\ Buttons\ and\ Events\ \(Signals\).webm 
+ 6385  pyqt5-tools designer
+ 6386  e
+ 6387  e
+ 6388  e
+ 6389  e
+ 6390  find / -name designer -type f 2>/dev/null
+ 6391  nano ~/.bashrc
+ 6392  source ~/.bashrc
+ 6393  sudo apt-get install qttools5-dev-tools
+ 6394  pyuic5 
+ 6395  cd ~/repos/
+ 6396  git clone git@github.com:Red-stevo/RestoMenu.git
+ 6397  ct
+ 6398  git push
+ 6399  ct
+ 6400  git push
+ 6401  git pull
+ 6402  ct
+ 6403  git push
+ 6404  cd ~
+ 6405  cd Videos/
+ 6406  download 
+ 6407  ct
+ 6408  git push
+ 6409  git pull
+ 6410  ct
+ 6411  git push
+ 6412  git pull
+ 6413  qtdesigner
+ 6414  s
+ 6415  update
+ 6416  e
+ 6417  e
+ 6418  e
+ 6419  e
+ 6420  s
+ 6421  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf 
+ 6422  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf --output difference.pdf
+ 6423  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf >  difference
+ 6424  cat difference 
+ 6425  diff intl-2425722533-similarity.pdf RestaurantMenuManagementReport.pdf -o  difference
+ 6426  sudo apt install diffpdf 
+ 6427  ct
+ 6428  git push
+ 6429  ct
+ 6430  cd Videos/Algo/
+ 6431  s
+ 6432  cd ~/Videos/
+ 6433  cd Algo/
+ 6434  mkdir travelling_sale_man
+ 6435  cd travelling_sale_man/
+ 6436  sudo apt install diffpdf 
+ 6437  mv * ./..
+ 6438  update
+ 6439  cd ~/Music/
+ 6440  bluetoothctl 
+ 6441  sudo systemctl restart bluetooth
+ 6442  sudo apt install --reinstall bluetooth bluez
+ 6443  sudo apt-get install pulseaudio pulseaudio-module-bluetooth pavucontrol bluez
+ 6444  pactl load-module module-bluetooth-discover
+ 6445  sudo systemctl restart bluetooth
+ 6446  pulseaudio -k
+ 6447  pulseaudio --start
+ 6448  sudo systemctl status bluetooth
+ 6449  pavucontrol
+ 6450  pulseaudio --start
+ 6451  pulseaudio --check
+ 6452  r
+ 6453  bluetoothctl 
+ 6454  sudo systemctl restart bluetooth
+ 6455  sudo apt update 
+ 6456  sudo apt upgrade 
+ 6457  apt list --upgradable 
+ 6458  e
+ 6459  vlc *
+ 6460  bluetoothctl 
+ 6461  cd Public/
+ 6462  cd ~/Videos/Algo/
+ 6463  cd travelling_sale_man/
+ 6464  e
+ 6465  cd ~/Music/
+ 6466  mkdir songs
+ 6467  cd songs/
+ 6468  download 
+ 6469  cd ~/repos/
+ 6470  git clone 
+ 6471  git clone git@github.com:Red-stevo/Theory_Of_Computation.git
+ 6472  cd Theory_Of_Computation/
+ 6473  cd  ~/Documents/3.1/TOC/
+ 6474  mv PDA/ ~/repos/Theory_Of_Computation/
+ 6475  cd ~/repos/Theory_Of_Computation/
+ 6476  cd PDA/
+ 6477  a
+ 6478  git add pda01.jff 
+ 6479  git commit -m "designing the PDA"
+ 6480  git add . pda02.jff 
+ 6481  git commit -m "designing the PDA for palidrome"
+ 6482  git add . 
+ 6483  git status
+ 6484  cd ..
+ 6485  git status
+ 6486  git commit -m "designing the PDA for palidrome"
+ 6487  git push
+ 6488  java -jar JFLAP7.1.jar 
+ 6489  e
+ 6490  e
+ 6491  e
+ 6492  e
+ 6493  ct
+ 6494  git push
+ 6495  bluetoothctl 
+ 6496  shutdown now
+ 6497  e
+ 6498  e
+ 6499  e
+ 6500  e
+ 6501  bluetoothctl 
+ 6502  cd Videos/
+ 6503  mkdir Kinus
+ 6504  cd Kinus/
+ 6505  ct
+ 6506  bluetoothctl
+ 6507  download 
+ 6508  ct
+ 6509  git push
+ 6510  bluetoothctl
+ 6511  e
+ 6512  s
+ 6513  cd ~/repos/
+ 6514  cd RestoMenu/
+ 6515  git pull https://github.com/Bobcodiz/RestoMenu/pull/10.patch
+ 6516  git status
+ 6517  git add .
+ 6518  ct
+ 6519  git remote add upstream https://github.com/Bobcodiz/RestoMenu/pull/10.patch
+ 6520  git remote -v
+ 6521  git fetch upstream 
+ 6522  git remote remove upstream upstream 
+ 6523  git remote remove upstream
+ 6524  git remote -v
+ 6525  git remote add upstream https://github.com/Bobcodiz/RestoMenu.git
+ 6526  git remove -v
+ 6527  git remote -v
+ 6528  git fetch upstream 
+ 6529  git merge upstream/main 
+ 6530  cd __pycache__/
+ 6531  git merge upstream/main 
+ 6532  code UpdateDish.cpython-311.pyc UpdateDish.cpython-312.pyc 
+ 6533  ct
+ 6534  git merge upstream/main 
+ 6535  git push
+ 6536  cd ~/Videos/Kinus/
+ 6537  mkdir spiderman
+ 6538  cd spiderman/
+ 6539  download 
+ 6540  download 
+ 6541  download 
+ 6542  e
+ 6543  e
+ 6544  e
+ 6545  e
+ 6546  e
+ 6547  e
+ 6548  cd ~/Videos/Kinus/
+ 6549  mkdir fresh
+ 6550  mv fresh/ french
+ 6551  cd french/
+ 6552  download 
+ 6553  e
+ 6554  bluetoothctl 
+ 6555  e
+ 6556  l
+ 6557  mkdir file.txt
+ 6558  hipstopgm 
+ 6559  history >> file.txt/
+ 6560  echo history >> file.txt/
+ 6561  echo history >clear file.txt/
+ 6562  sudo rm file.txt/
+ 6563  ls
+ 6564  sudo rm -r file.txt/
+ 6565  c
+ 6566  touch file.txt 
+ 6567  clear
+ 6568  history >> file.txt 
