@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <sys/stat.h>
 
 void readfile(char* filepath){
     char data[41];
@@ -29,6 +30,22 @@ void readfile(char* filepath){
     fclose(stream);
 }
 
+void fileinfor(char fileName[]){
+    struct stat fileDescriptor;
+
+    if(stat(fileName, &fileDescriptor) == -1){
+        printf("error Getting file content.");
+        return;
+    }
+
+    printf("%ld\n", fileDescriptor.st_size);
+    printf("%o\n", fileDescriptor.st_mode);
+    printf("%ld\n",fileDescriptor.st_mtime);
+}
+
+
+
+
 int main(int argc, char* argv[]){
 
     if (argc != 2){
@@ -42,7 +59,7 @@ int main(int argc, char* argv[]){
 
     strcpy(name, argv[1]);
 
-    readfile(name);
-
+    //readfile(name);
+    fileinfor(name);
     return 0;
 }
