@@ -1,0 +1,3 @@
+/home/redsteve/repos/C_programming/exam-questions/cmake-build-debug/CMakeFiles/exam_questions.dir
+/home/redsteve/repos/C_programming/exam-questions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/redsteve/repos/C_programming/exam-questions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

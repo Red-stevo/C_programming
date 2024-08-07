@@ -1,0 +1,17 @@
+# ninja log v6
+1	29	1723043069916133344	CMakeFiles/exam_questions.dir/main.c.o	c3c94fef035b06bf
+29	52	1723043069946133426	exam_questions	27e0c7f43bad7207
+2	67	1723043220626539848	CMakeFiles/exam_questions.dir/main.c.o	c3c94fef035b06bf
+67	100	1723043220693206695	exam_questions	27e0c7f43bad7207
+1	32	1723043309743446465	CMakeFiles/exam_questions.dir/main.c.o	c3c94fef035b06bf
+33	59	1723043309776779888	exam_questions	27e0c7f43bad7207
+1	30	1723043354570233716	CMakeFiles/exam_questions.dir/main.c.o	c3c94fef035b06bf
+30	54	1723043354596900454	exam_questions	27e0c7f43bad7207
+1	47	1723043615730934742	CMakeFiles/exam_questions.dir/main.c.o	c3c94fef035b06bf
+47	84	1723043615777601533	exam_questions	27e0c7f43bad7207
+1	32	1723043890321669224	CMakeFiles/exam_questions.dir/main.c.o	c3c94fef035b06bf
+32	62	1723043890351669304	exam_questions	27e0c7f43bad7207
+1	31	1723043925385096193	CMakeFiles/exam_questions.dir/main.c.o	c3c94fef035b06bf
+31	61	1723043925415096273	exam_questions	27e0c7f43bad7207
+1	28	1723044099258893201	CMakeFiles/exam_questions.dir/main.c.o	c3c94fef035b06bf
+28	52	1723044099285559939	exam_questions	27e0c7f43bad7207
