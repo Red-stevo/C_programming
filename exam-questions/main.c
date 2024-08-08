@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
-
+#include <stdlib.h>
+#include <string.h>
 
 void working_with_fork(){
 
@@ -30,14 +31,46 @@ void working_with_fork(){
     }
 }
 
-
+struct Student{
+    char name[100];
+    char grade;
+};
 
 
 
 int main(void){
 
+    struct Student *bree = (struct Student*) malloc(sizeof(struct Student));
+
+    /*
+    printf("Enter you name : ");
+    fgets(bree->name, sizeof(bree->name), stdin);
+
+    printf("ENTER YOUR GRADE\nGRADE : ");
+    scanf(" %c",&bree->grade);
 
 
+    printf("name : %s and grade %c ", bree->name, bree -> grade);
+    */
 
+
+    bree = (struct Student*) realloc(bree, (5 * sizeof(struct Student)));
+    const struct Student *bree2 = bree;
+
+    for (int i = 0; i < 5; i++){
+        bree += i;
+        printf("\nEnter you name : ");
+        fgets(bree->name, sizeof(bree->name), stdin);
+        bree->name[strcspn(bree->name, "\n")] = '\0';
+
+        printf("\nENTER YOUR GRADE\nGRADE : ");
+        scanf(" %c",&bree->grade);
+    }
+
+    for (int i = 0; i < 5; i++){
+        bree2 +=i;
+        printf("name : %s and grade %c \n", bree->name, bree -> grade);
+
+    }
     return 0;
 }
