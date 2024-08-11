@@ -1,0 +1,28 @@
+
+
+hello world
+.
+..
+build.ninja
+.cmake
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+exam_questions
+file.txt
+.ninja_deps
+.ninja_log
+Testing
+total 92
+drwxr-xr-x 1 redsteve redsteve   220 Aug 11 17:17 .
+drwxr-xr-x 1 redsteve redsteve    84 Aug 11 17:17 ..
+-rw-r--r-- 1 redsteve redsteve 22539 Aug  7 18:01 build.ninja
+drwxr-xr-x 1 redsteve redsteve     6 Aug  7 18:01 .cmake
+-rw-r--r-- 1 redsteve redsteve 12832 Aug  7 18:01 CMakeCache.txt
+drwxr-xr-x 1 redsteve redsteve   318 Aug  7 18:01 CMakeFiles
+-rw-r--r-- 1 redsteve redsteve  1691 Aug  7 18:01 cmake_install.cmake
+-rwxr-xr-x 1 redsteve redsteve 19776 Aug 11 17:17 exam_questions
+-rw-r--r-- 1 redsteve redsteve   139 Aug 11 17:17 file.txt
+-rw-r--r-- 1 redsteve redsteve 15620 Aug 11 17:17 .ninja_deps
+-rw-r--r-- 1 redsteve redsteve  6699 Aug 11 17:17 .ninja_log
+drwxr-xr-x 1 redsteve redsteve    18 Aug  7 18:01 Testing
